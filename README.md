@@ -85,12 +85,6 @@ The script will output per-epoch metrics for each fold, followed by average curv
 └── model.pth               # Saved trained model weights
 ```
 
-## Results
-
-Example final test accuracy: **95.3%**
-Example F1-score: **0.94**
-
-*Adjust hyperparameters and augmentation strategies to improve performance further.*
 
 ## License
 
